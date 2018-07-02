@@ -1,0 +1,3 @@
+['/Users/pulkit/Desktop/data_paths/cartoon.txt', '/Users/pulkit/Desktop/data_paths/photo.txt', '/Users/pulkit/Desktop/data_paths/sketch.txt']
+['/Users/pulkit/Desktop/data_paths/cartoon.txt', '/Users/pulkit/Desktop/data_paths/photo.txt', '/Users/pulkit/Desktop/data_paths/sketch.txt']
+/Users/pulkit/Desktop/data_paths/art_painting.txt

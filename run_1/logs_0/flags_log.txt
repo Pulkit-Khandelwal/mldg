@@ -1,0 +1,1 @@
+Namespace(batch_size=64, data_root='/Users/pulkit/Desktop/PACS/', debug=False, inner_loops=1, logs='run_1/logs_0/', lr=0.0005, model_path='run_1/models_0/', momentum=0.9, num_classes=7, state_dict='', step_size=15000, subcommand='train', test_every=5, unseen_index=0, weight_decay=5e-05)
